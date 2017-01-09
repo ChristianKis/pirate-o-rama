@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PirateORama.WebApi.Host")]
+[assembly: AssemblyTitle("PirateORama.WebApi.Model")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("EPAM Systems")]
-[assembly: AssemblyProduct("PirateORama.WebApi.Host")]
+[assembly: AssemblyProduct("PirateORama.WebApi.Model")]
 [assembly: AssemblyCopyright("Copyright © EPAM Systems 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("27f06bf2-bf8c-44af-b6cc-a53df03a125e")]
+[assembly: Guid("f08abb63-912e-4b15-a06a-1618e5b5da53")]
 
 // Version information for an assembly consists of the following four values:
 //
